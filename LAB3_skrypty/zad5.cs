@@ -2,7 +2,7 @@
 //using System.Collections.Generic;
 using UnityEngine;
 
-public class zad5 : MonoBehaviour
+public class Zad5 : MonoBehaviour
 {
     public GameObject cubePrefab;
     public int numberOfCubes = 10;

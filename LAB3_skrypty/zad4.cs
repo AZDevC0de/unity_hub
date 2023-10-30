@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class zad4 : MonoBehaviour
+public class Zad4 : MonoBehaviour
 {
     public float speed = 5.0f;
 

@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class zad6_sledzony : MonoBehaviour
+public class Zad6_sledzony : MonoBehaviour
 {
     public float moveSpeed = 5.0f;
     // Start is called before the first frame update

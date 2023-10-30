@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class zad3 : MonoBehaviour
+public class Zad3 : MonoBehaviour
 {
     public float speed = 2.0f;
     private Vector3[] points;

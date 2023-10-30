@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class zad6 : MonoBehaviour
+public class Zad6 : MonoBehaviour
 {
     public Transform target; // obiekt, który jest œledzony
     public float lerpSpeed = 0.1f;

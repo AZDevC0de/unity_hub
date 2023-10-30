@@ -5,7 +5,7 @@ using UnityEngine;
 
 using UnityEngine;
 
-public class zad2 : MonoBehaviour
+public class Zad2 : MonoBehaviour
 {
     public float speed = 2.0f;
     private float initialPositionX;
